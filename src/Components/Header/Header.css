@@ -1,22 +1,17 @@
 .header{
     text-align: center;
-  
-  
-
 }
 
-.header h5{
-    color: #E74295;
-}
 .header h1{
+    color: #E74295;
+    font-weight: 700;
+}
+.header h2{
    font-weight: 700;
    color: #8142EE;
 
 }
 
-.header h4{
-   color: #C33E3E;
-}
 .header h3{
     color: #0b9671;
     font-size:25px;
