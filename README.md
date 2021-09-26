@@ -2,7 +2,7 @@
 it's like a application to help people around the world like poor people to take some Advantance witch they hove not get. 
 so we are happy to doing something there that's it.
 
-This project was bootstrapped with [Create React App](https://millionaire-helping-agency.netlify.app/).
+This project was bootstrapped with [Create React App and this application live link](https://millionaire-helping-agency.netlify.app/).
 
 ## this application Spaciality
 
