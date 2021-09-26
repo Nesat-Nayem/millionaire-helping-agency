@@ -8,6 +8,15 @@ const Project = () => {
 
     const[persons, setPersons] = useState([])
 
+    const [invest, setInvest] = useState([])
+
+    const handleInvest=(name) =>{
+       
+       const newInvest=[...invest,name]
+       setInvest(newInvest)
+       console.log(newInvest);
+    }
+
     useEffect(() => {
 
         fetch('personn.json')
@@ -31,6 +40,7 @@ const Project = () => {
                             persons.map(person => <Persons 
                                 key={person.id}
                                 person={person}
+                                handleInvest={handleInvest}
                                 ></Persons>)
                         }
 
@@ -43,7 +53,9 @@ const Project = () => {
                 </div>
 
                 <div className="col-md-3">
-                    <Details></Details>
+                    <Details
+                    invest={invest}
+                    ></Details>
                 </div>
 
             </div>

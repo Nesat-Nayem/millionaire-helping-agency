@@ -4,78 +4,85 @@
 
     {
     
-      "name": "Caitlin",
-       
-      "location": "United Kingdom",
+      "name": "Graham",
+       "City": "Gwenborough",
+      "location": "Russia",
      
-      "email": "caitlin.lopez@example.com",
+      "email": "Sincere@april.biz",
      
-      "phone": "017687 54282",
+      "phone": "+770-736-8031 6442",
      
-      "id": "PW 56 8s8 33 P",
+      "invest":"90",
+      "id": "PqW 56 8s8 333 P",
     
-      "picture": "https://randomuser.me/api/portraits/women/29.jpg"
+      "picture": "https://bigdataconference.eu/wp-content/uploads/2021/07/Bigdata_europe_speaker_Ibrahim-Muzaferija.png"
      
     },
     
     {
-      "name": "Caitlin",
+      "name": "Howell",
       
-      "location": "United Kingdom",
-    
-      "email": "caitlin.lopez@example.com",
+      "City": "Wisokyburgh",
+      "location": "Germany",
       
-      "phone": "017687 54282",
+      "invest":"10",
+      "email": "Shanna@melissa.com",
+      
+      "phone": "+010-692-6593 99125",
      
-      "id": "PW 56 8d8 33 P",
-      "picture": "https://randomuser.me/api/portraits/women/29.jpg"
+      "id": "PeW 536 8d8 33 P",
+      "picture": "https://bigdataconference.eu/wp-content/uploads/2021/07/Bigdata_europe_speaker_Diana-Gabrielyan.png"
       
     },
     
     {
      
-      "name": "Caitlin",
+      "name": "Lebsack",
       
-      "location": "United Kingdom",
+      "City": "South Elvis",
+      "location": "France",
     
-      "email": "caitlin.lopez@example.com",
+      "email": "Julianne.OConner@kory.org",
       
+      "invest":"40",
       
-      
-      "phone": "017687 54282",
+      "phone": "(775)976-6794 412026",
     
-      "id": "PW 56 88 3f3 P",
-      "picture": "https://randomuser.me/api/portraits/women/29.jpg"
+      "id": "PtW 526 88 3f3 P",
+      "picture": "https://bigdataconference.eu/wp-content/uploads/2021/07/Bigdata_europe_speaker_Julien-Genovese.png"
       
     },
     
     {
     
-      "name": "Caitlin",
-      "location": "United Kingdom",
+      "name": "DuBuque",
+      "City": "Lebsackbury",
+      "location": "Italy",
       
-      "email": "caitlin.lopez@example.com",
+      "email": "Rey.Padberg@karina.com",
      
-      
-      "phone": "017687 54282",
+      "invest":"100",
+      "phone": "024-648-3804",
      
-      "id": "PW 5a6 88 33 P",
+      "id": "PuW 5a6 848 33 P",
       
-      "picture":"https://randomuser.me/api/portraits/women/29.jpg"
+      "picture":"https://demo.themewinter.com/wp/privsan/wp-content/uploads/2020/01/team7.png"
     },
     
     
     {
       
       "name": "Lopez",
-      "location": "United Kingdom",
+      "invest":"30",
+      "City": "London",
+      "location": "Poland",
     
       "email": "caitlin.lopez@example.com",
     
-      "phone": "017687 54282",
+      "phone": "+44 7700 900077",
      
-      "id": "PW 56 88 33g P",
-      "picture": "https://randomuser.me/api/portraits/women/29.jpg"
+      "id": "PuW 5a6 848 3653 P",
+      "picture": "https://demo.themewinter.com/wp/privsan/wp-content/uploads/2020/01/team5.png"
     }
     
     ]
