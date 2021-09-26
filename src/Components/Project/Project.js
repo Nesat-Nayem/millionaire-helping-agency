@@ -30,7 +30,7 @@ const Project = () => {
 
     return (
         <div>
-             <h1>hello from project</h1>
+            
 
             <div className="row">
                 <div className="col-md-9">

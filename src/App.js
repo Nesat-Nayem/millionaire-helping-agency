@@ -6,7 +6,7 @@ import Project from './Components/Project/Project';
 function App() {
   return (
     <div>
-      <h1>hello frome js</h1>
+     
       <Header></Header>
       <Project></Project>
       

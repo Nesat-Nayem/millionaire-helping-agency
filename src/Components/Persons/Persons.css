@@ -1,0 +1,11 @@
+.cart-text h5{
+    color: #e4117abd;
+}
+.cart-text p{
+    font-size: 16px;
+    font-weight: 700;
+   
+}
+.card_background{
+    background: linear-gradient(0deg, #abfc80 0%, #d07ffc 100%)
+}

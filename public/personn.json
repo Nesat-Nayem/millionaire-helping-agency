@@ -42,7 +42,7 @@
       "City": "South Elvis",
       "location": "France",
     
-      "email": "Julianne.OConner@kory.org",
+      "email": "Juliannener@kory.org",
       
       "invest":"40",
       
@@ -59,14 +59,14 @@
       "City": "Lebsackbury",
       "location": "Italy",
       
-      "email": "Rey.Padberg@karina.com",
+      "email": "Rey@karina.com",
      
       "invest":"100",
       "phone": "024-648-3804",
      
       "id": "PuW 5a6 848 33 P",
       
-      "picture":"https://demo.themewinter.com/wp/privsan/wp-content/uploads/2020/01/team7.png"
+      "picture":"https://demo.themewinter.com/wp/privsan/wp-content/uploads/2020/01/team6.png"
     },
     
     
@@ -77,12 +77,71 @@
       "City": "London",
       "location": "Poland",
     
-      "email": "caitlin.lopez@example.com",
+      "email": "caitlin@ample.com",
     
       "phone": "+44 7700 900077",
      
       "id": "PuW 5a6 848 3653 P",
+      "picture": "https://demo.themewinter.com/wp/privsan/wp-content/uploads/2020/01/team7.png"
+    },
+
+
+    {
+      
+      "name": "Sherri",
+      "invest":"30",
+      "City": "Schaumburg",
+      "location": "United States",
+    
+      "email": "sherri@pxapple.com",
+    
+      "phone": "+(142)-944-1344",
+     
+      "id": "PuW 5a6 848 365fd3 P",
       "picture": "https://demo.themewinter.com/wp/privsan/wp-content/uploads/2020/01/team5.png"
+    },
+
+    {
+      
+      "name": "Henderson",
+      "invest":"300",
+      "City": "California",
+      "location": "United States",
+    
+      "email": "Henderson@ros.com",
+    
+      "phone": "+760-900-2599",
+     
+      "id": "PuW 5a6 558 365fd3 P",
+      "picture": "https://virtualspeech.com/img/motivational-speakers/Amy-Purdy.jpg"
+    },
+    {
+      
+      "name": "Ashworth",
+      "invest":"500",
+      "City": "Arizona",
+      "location": "United States",
+    
+      "email": "ashwoh@koe.com",
+    
+      "phone": "+480-804-1548",
+     
+      "id": "PuW 5a6 848 365fdsd3 P",
+      "picture": "https://virtualspeech.com/img/motivational-speakers/nick-vujicic.jpg"
+    },
+    {
+      
+      "name": "Sturgill",
+      "invest":"900",
+      "City": "Chicago",
+      "location": "United States",
+    
+      "email": "simenez@le.com",
+    
+      "phone": "+312-480-7864",
+     
+      "id": "PuW 5a6 84w8 365fdsd3 P",
+      "picture": "https://virtualspeech.com/img/motivational-speakers/Darren-Hardy.jpg"
     }
     
     ]

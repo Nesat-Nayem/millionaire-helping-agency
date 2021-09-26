@@ -8,9 +8,9 @@ const Details = (props) => {
     const totalInvest = invest.reduce( totalInvestValue ,  0)
 
     return (
-        <div>
-            <p><i class="fas fa-shopping-cart"></i>:{invest.length}</p>
-            <h4> Total Invest Amount: $ {totalInvest}M</h4>
+        <div className="details ms-3">
+            <h5 className="person-color"><i class="fas fa-user-alt"></i> Total Richest Person : {invest.length}</h5>
+            <h4 className="total-invest"> Total Invest: $ {totalInvest}M</h4>
 
             <ul>
                 {
