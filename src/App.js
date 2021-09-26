@@ -6,8 +6,13 @@ import Project from './Components/Project/Project';
 function App() {
   return (
     <div>
+     {/* header are */}
      
       <Header></Header>
+
+      {/* main project */}
+
+
       <Project></Project>
       
     </div>

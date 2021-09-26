@@ -31,26 +31,22 @@ const Project = () => {
     return (
         <div>
             
+            {/* person area */}
 
             <div className="row">
                 <div className="col-md-9">
                     <div className="row">
-                        
                         {
                             persons.map(person => <Persons 
-                                key={person.id}
-                                person={person}
-                                handleInvest={handleInvest}
-                                ></Persons>)
+                            key={person.id}
+                            person={person}
+                             handleInvest={handleInvest}
+                            ></Persons>)
                         }
-
-                        
                     </div>
-
-                    
-                    
-                    
                 </div>
+
+                {/* total Calculation area */}
 
                 <div className="col-md-3">
                     <Details

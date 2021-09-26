@@ -1,15 +1,17 @@
 import React from 'react';
 import './Persons.css'
+
+// Distracting 
+
 const Persons = (props) => {
     const{name, email, picture,location, phone, invest, City} = props.person
 
-// console.log(props.persons);
+// card area to show ui
     
     return (
-      
-            
+          
         <div className="col-md-4">
-            <div className="card ms-3 shadow-none p-3 mb-5 bg-light rounded card_background" style={{'width': '18rem'}}>
+            <div className="card ms-3 shadow-none p-3 mb-5 bg-light   rounded card_background" style={{'width': '18rem'}}>
                 <img src={picture} className="card-img-top" alt="..."/>
                 <div className="card-body cart-text">
                     <h5 className="card-title">Name : {name}</h5>
@@ -18,9 +20,7 @@ const Persons = (props) => {
                     <p className="card-text">Location : {location}</p>
                     <p className="card-text">Phone : {phone}</p>
                     <p className="card-text">Invest : ${invest}M</p>
-
-
-                    <button 
+                     <button 
                     onClick= {()=> props.handleInvest(props.person)}
                      className="btn btn-primary"><i className="fas fa-money-check-alt"></i> add Invest</button>
                 </div>
